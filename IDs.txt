@@ -1,4 +1,4 @@
-    MedalAssistanceBronze = 100; Signatures 64 00 00 00 00 00 00 00 00 00 [Processed by ApexConverter v1.0]
+        MedalAssistanceBronze = 100; Signatures 64 00 00 00 00 00 00 00 00 00 [Processed by ApexConverter v1.0]
 		MedalAssistanceSilver = 101; Signatures 65 00 00 00 00 00 00 00 00 00 [Processed by ApexConverter v1.0]
 		MedalAssistanceGold = 102; Signatures 66 00 00 00 00 00 00 00 00 00 [Processed by ApexConverter v1.0]
 		MedalAssistancePlatinum = 103; Signatures 67 00 00 00 00 00 00 00 00 00 [Processed by ApexConverter v1.0]
